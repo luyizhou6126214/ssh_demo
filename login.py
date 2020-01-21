@@ -7,4 +7,6 @@ city = 'suzhou'
 def run():
     print('it is done')
 
+def eat():
+    print('777')
 

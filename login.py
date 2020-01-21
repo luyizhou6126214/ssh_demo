@@ -10,3 +10,6 @@ def run():
 def eat():
     print('777')
 
+def drink():
+    print('eat')
+
